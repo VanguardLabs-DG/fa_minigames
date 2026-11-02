@@ -1,9 +1,11 @@
 Config = {}
 
-Config.Locale = 'en'
+-- Idioma padrão em Português do Brasil (PT-BR)
+Config.Locale = 'pt-br'
 
--- Hex colours only (#RRGGBB). These defaults apply to every minigame.
+-- Paleta Oficial do Distrito Paulista (DESIGN.md & vanguard-tokens.css):
+-- Dark Luxury Background (#121216) + Gold Metálico Paulista (#D4AF37 / #E5A93C)
 Config.Theme = {
-    main = '#0B0B0F',
-    accent = '#8D4FE8'
+    main = '#121216',
+    accent = '#D4AF37'
 }

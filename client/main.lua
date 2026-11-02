@@ -6,8 +6,8 @@ local pendingKeypadResult
 
 local DEFAULT_PRESET = 'medium'
 local DEFAULT_THEME = {
-    main = '#0B0B0F',
-    accent = '#8D4FE8'
+    main = '#121216',
+    accent = '#D4AF37'
 }
 local PRESETS = {
     drill = {
